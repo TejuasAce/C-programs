@@ -1,4 +1,4 @@
-//PALINDROM//
+//PALINDROME//
 #include <stdio.h>
 int main ()
 {
