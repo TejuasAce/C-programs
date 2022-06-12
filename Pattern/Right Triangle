@@ -1,3 +1,4 @@
+//Right Tringle//
 #include <stdio.h>
 void main()
 {
